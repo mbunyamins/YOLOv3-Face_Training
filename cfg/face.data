@@ -1,0 +1,5 @@
+classes= 1
+train  = WiderTrain.txt  
+valid  = WiderValidation.txt 
+names = cfg/face.names  
+backup = backup/
