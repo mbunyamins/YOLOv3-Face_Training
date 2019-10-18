@@ -1,6 +1,9 @@
 # YOLOv3-Face_Training
 In this repo, you can see training and validation files with an appropriate darknet
 
+## Arranging Darknet
+After clonening the repo, you must write command line to make. If your GPU has different architecture you must set it. Also you must arrange cuda and nvcc directories for using GPU=1. After arranging this files, you must write to command line make. If there is no error, you can start training.
+
 ## Starting Training
 All the configuration files and training images prepared. If you want to start training, you must only write the command below.
 ```
